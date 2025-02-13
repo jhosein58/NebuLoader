@@ -1,0 +1,9 @@
+{
+    "packageName": "Nebu\/HelloWorld",
+    "psr-4": {
+        "HelloWorld\\": "src\/HelloWorld"
+    },
+    "require": [
+        "hehe"
+    ]
+}
